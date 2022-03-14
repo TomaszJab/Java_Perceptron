@@ -2,6 +2,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+//Ze wzgledu na to, że program jest któtki umieścilem wbrew podstawowym zasadom, w jednym pliku dwie klasy.
+//Zrobiłem to w celu ulatwienia przegladania pliku na github
+
 public class Main {
     
     public static void main(String[] args) {
